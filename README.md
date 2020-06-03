@@ -1,6 +1,8 @@
 # nb\_cell\_diff
 Simple tools for ad hoc, in notebook, code cell differencing.
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/innovationOUtside/nb_cell_diff/master?filepath=demo.ipynb)
+
 Based on the Google [`diff-match-patch`](https://github.com/google/diff-match-patch) Python3 package.
 
 
