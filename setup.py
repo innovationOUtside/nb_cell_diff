@@ -12,7 +12,6 @@ setup(
     long_description_content_type="text/markdown",
     url="https://github.com/pypa/sampleproject",
     packages=['nbcelldiff'],
-    version='0.0.1',
     package_data = {},
     include_package_data=False,
     install_requires=[],
